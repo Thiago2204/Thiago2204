@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on
 - 📫 Try Reaching me on:
 - - [LinkedIn](https://www.linkedin.com/in/thiago-estacio-809922207/)
-- - [E-mail](quadrado2204@gmail.com)
+- - [E-mail](https://mail.google.com/mail/u/0/#inbox)
 - - [WhatsApp](+5511942030333)
