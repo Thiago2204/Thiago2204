@@ -8,6 +8,8 @@
 
 ![Thiago2204's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago2204&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago2204&layout=compact)](https://github.com/thiago2204/github-readme-stats)
+
 ### My Languages 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
