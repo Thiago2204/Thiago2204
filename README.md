@@ -7,10 +7,7 @@
 
 ## 📊 Some of my stats  
 ![Thiago2204's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago2204&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago2204&layout=compact)](https://github.com/thiago2204/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago2204&theme=tokyonight)
+![Thiago2204's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago2204&layout=compacte&theme=radical)
 
 ## 👨🏽‍💻Some of my Languages
 <div style="display: inline_block"><br>
