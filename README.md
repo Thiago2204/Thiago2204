@@ -3,12 +3,16 @@
   <img align="right" height="50" width="50" src="https://thumbs.gfycat.com/InnocentPleasedAmericangoldfinch-max-1mb.gif" />
     <img align="left" height="50" width="50" src="https://thumbs.gfycat.com/InnocentPleasedAmericangoldfinch-max-1mb.gif" />
   <h1 align="center" >🖖 Hey I'm Thiago Estacio</h1>
+  </div>
+  
+  <div align="center">
+    <img align="center" height="180" width="360" src="https://media.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif" />
+  </div>
+  
+ <div style="display: inline_block"><br> 
   <h2 align="center" >📲 Click To Reach me</h2>
 <div/>
   
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-estacio-809922207/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/ievo1w)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))
 <div align="center">
   <a href="https://github.com/Thiago2204" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
