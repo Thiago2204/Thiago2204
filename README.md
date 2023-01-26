@@ -8,6 +8,12 @@
   <div align="center">
     <img align="center" height="180" width="360" src="https://media.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif" />
   </div>
+  <div style="display: inline_block"><br> 
+  <h2 align="center" >🙋🏻‍♂️ About me</h2>
+    <h4 align="center" >I`m a junior developer, cunrrently halfway through my junior year, I,ve been working in a innership for about 2 years, and always studyng new languages and tools.</h4>
+  <h4 align="center" >With regards to my personality, I`m a geek and a huge pop culture enjoyer specially fantasy and Sci fi, I love all sorts of medias from video games all the way to mangas, passing trough 70s/80s/90s culture, love spend some time reading or going out. </h4>
+<div/>
+  
   
  <div style="display: inline_block"><br> 
   <h2 align="center" >📲 Click To Reach me</h2>
@@ -50,7 +56,7 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
           
 <div style="display: inline_block"><br>
-    <h2 align="center" >💻Technologies in which Im accustomed</h2>
+    <h2 align="center" >💻Technologies in which I`m accustomed</h2>
 <div/>
        
 
