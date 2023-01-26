@@ -11,7 +11,7 @@
   <div style="display: inline_block"><br> 
   <h2 align="center" >🙋🏻‍♂️ About me</h2>
     <h4 align="center" >I`m a junior developer, cunrrently halfway through my junior year, I,ve been working in a innership for about 2 years, and always studyng new languages and tools.</h4>
-  <h4 align="center" >With regards to my personality, I`m a geek and a huge pop culture enjoyer specially fantasy and Sci fi, I love all sorts of medias from video games all the way to manga, passing trough 70s/80s/90s culture, love spend some time reading and trying new things.. </h4>
+  <h4 align="center" >With regards to my personality, I`m a geek and a huge pop culture enjoyer specially fantasy and Sci fi, I love all sorts of medias from video games all the way to manga, passing trough 70s/80s/90s culture, love spend some time reading and trying new things... </h4>
 <div/>
   
   
