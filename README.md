@@ -1,6 +1,6 @@
 
 <div style="display: inline_block"><br>
-  <img align="right" height="50" width="50" src="https://thumbs.gfycat.com/InnocentPleasedAmericangoldfinch-max-1mb.gif" />
+  <img align="right" height="50" width="50" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" />
     <img align="left" height="50" width="50" src="https://thumbs.gfycat.com/InnocentPleasedAmericangoldfinch-max-1mb.gif" />
   <h1 align="center" >🖖 Hey I'm Thiago Estacio</h1>
   </div>
