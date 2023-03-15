@@ -39,7 +39,7 @@
 <div/>
 
 ![Thiago2204's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago2204&show_icons=true&theme=radical)
-![Thiago2204's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago2204&layout=compacte&theme=radical)
+  ![Thiago2204's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago2204&layout=compacte&theme=radical)
 
 
 <div style="display: inline_block"><br>
