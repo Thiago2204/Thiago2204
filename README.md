@@ -44,8 +44,18 @@ My primary life objective is to explore the world and experience different cultu
   </a>
    <a href="https://wa.link/ievo1w" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  <br>
-</div>
+  </a>
+  <a href="https://www.facebook.com/thiagohenrique.q.estacio/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/thiagoquadrado/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.behance.net/thiagoestacio2" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
+  </a>
+    
+  </div>
   
 <header>
     <h2 align="center" >📊 Some of my stats</h2>
