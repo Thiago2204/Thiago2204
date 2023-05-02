@@ -10,7 +10,9 @@
   </div>
   <div style="display: inline_block"><br> 
   <h2 align="center" >🙋🏻‍♂️ About me</h2>
-    <h4 align="center" >I`m currently a junior developer, cunrrently halfway through my junior year, I,ve been working in a innership for about 2 years, and always studyng new languages and tools.</h4>
+    <h4 align="center" >I am Thiago Estacio, a 21-year-old Brazilian with a passion for electronics, technology, and gaming. I am currently pursuing a Computer Science Bachelor's degree at Universidade Presbiteriana Mackenzie, driven to make a valuable contribution to this field. My high school exchange program in Canada equipped me with communication skills that are beneficial for Agile methods and group collaboration.
+Previously, I worked as an intern for about two years at a payment methods company, providing a Software as a Service (SAAS) system, and currently, I am working as a Dev Junior in a Data Management Consulting Company. Throughout my senior year, I worked on various projects that enabled me to enhance my skills and knowledge.
+My primary life objective is to explore the world and experience different cultures. I aspire to contribute to making the world a better place through my expertise, and I am willing to relocate outside Brazil when the opportunity arises.</h4>
   <h4 align="center" >With regards to my personality, I`m a geek and a huge pop culture enjoyer specially fantasy and Sci fi, I love all sorts of medias from video games all the way to manga, passing trough 70s/80s/90s culture, love spend some time reading and trying new things... </h4>
 <div/>
   
