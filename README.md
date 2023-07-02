@@ -62,7 +62,7 @@ My primary life objective is to explore the world and experience different cultu
   </header>
 
 ![Thiago2204's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago2204&show_icons=true&theme=radical)
-![Thiago2204's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago2204&layout=compacte&theme=radical)
+
 
 
 <header>
@@ -107,5 +107,5 @@ My primary life objective is to explore the world and experience different cultu
 
 
 ![Snake animation](https://github.com/Thiago2204/Thiago2204/blob/output/github-contribution-grid-snake.svg)
-  </div>
+
   
