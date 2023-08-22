@@ -29,7 +29,7 @@ My primary life objective is to explore the world and experience different cultu
   
   
 <header>
-  <h2 align="center" >📲 Click To Reach me</h2>
+  <h2 align="center" >📲  Click To Reach me</h2>
   </header>
   
 <div align="center">
@@ -66,7 +66,7 @@ My primary life objective is to explore the world and experience different cultu
 
 
 <header>
-    <h2 align="center" >👨🏽‍💻Some of my Languagess</h2>
+    <h2 align="center" >👨🏽‍💻 Some of my Languages</h2>
   </header>
 
 <div style="display: inline_block" align= "center"><br>
@@ -85,7 +85,7 @@ My primary life objective is to explore the world and experience different cultu
           
           
 <header>
-    <h2 align="center" >💻Technologies in which I`m accustomed</h2>
+    <h2 align="center" >💻 Technologies in which I`m accustomed</h2>
   <header>
        
 
@@ -103,8 +103,6 @@ My primary life objective is to explore the world and experience different cultu
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
           
-
-
 
 ![Snake animation](https://github.com/Thiago2204/Thiago2204/blob/output/github-contribution-grid-snake.svg)
 
