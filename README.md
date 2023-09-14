@@ -1,38 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
 <div style="display: inline_block"><br>
-  <img align="right" height="50" width="50" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" />
-    <img align="left" height="50" width="50" src="https://thumbs.gfycat.com/InnocentPleasedAmericangoldfinch-max-1mb.gif" />
-  </head>
-  
-  <header>
-  <h1 align="center" >🖖 Hey I'm Thiago Estacio</h1>
-    </header>
-
-  <div align="center">
-    <img align="center" height="180" width="360" src="https://media.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif" />
-  </div>
+<img align="left" height="50" width="50" src="https://thumbs.gfycat.com/InnocentPleasedAmericangoldfinch-max-1mb.gif" />
  
-  <header>
-  <h2 align="center" >🙋🏻‍♂️ About me</h2>
-    </header>
-    
+<img align="right" height="490em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
   
-  <ul>
-  <li><h4 align="left" > I am Thiago Estacio, a 21-year-old Brazilian with a passion for electronics, technology, and gaming. I am currently pursuing a Computer Science Bachelor's degree at Universidade Presbiteriana Mackenzie, driven to make a valuable contribution to this field. My high school exchange program in Canada equipped me with communication skills that are beneficial for Agile methods and group collaboration.
-Previously, I worked as an intern for about two years at a payment methods company, providing a Software as a Service (SAAS) system, and currently, I am working as a Dev Junior in a Data Management Consulting Company. Throughout my senior year, I worked on various projects that enabled me to enhance my skills and knowledge.
-My primary life objective is to explore the world and experience different cultures. I aspire to contribute to making the world a better place through my expertise, and I am willing to relocate outside Brazil when the opportunity arises.</h4> 
-  <li><h4 align="left" >With regards to my personality, I`m a geek and a huge pop culture enjoyer specially fantasy and Sci fi, I love all sorts of medias from video games all the way to manga, passing trough 70s/80s/90s culture, love spend some time reading and trying new things... </h4>
-    </ul>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thiago Estacio</h1> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiago2204&color=yellow" alt="Profile views" /> </p>
 
+
+- 🔥 Junior Web Developer & UX|UI Designer 
+
+- 💬 Ask me about **JavaScript, HTML, CSS, JavaScript, Python, C++ 
+
+- ⚡ Fun fact: I`m a huge 
   
-  
+<div style="display: inline_block" align= "center"><br>  
 <header>
-  <h2 align="center" >📲  Click To Reach me</h2>
+  <h2 align="left" >📲  Click To Reach me</h2>
   </header>
   
-<div align="center">
+<div align="left">
   <a href="https://github.com/Thiago2204" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
@@ -54,19 +40,22 @@ My primary life objective is to explore the world and experience different cultu
   <a href="https://www.behance.net/thiagoestacio2" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
   </a>
-    
-  </div>
-  
+      
+
 <header>
-    <h2 align="center" >📊 Some of my stats</h2>
+    <h2 align="left" >📊 Analytics</h2>
   </header>
-
-![Thiago2204's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago2204&show_icons=true&theme=radical)
+  
+<div style="display: inline_block" align= "center"><br> 
+  <p align="left">
+  <img height="200"src="https://github-readme-stats.vercel.app/api?username=Thiago2204&show_icons=true&theme=vision-friendly-dark" alt="Thiago2204's stats"/>
+  <img height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2204&layout=compact&theme=vision-friendly-dark"     alt="Thiago2204's most languages"/>
+</p>
 
 
 
 <header>
-    <h2 align="center" >👨🏽‍💻 Some of my Languages</h2>
+    <h2 align="left" >👨🏽‍💻 Languages</h2>
   </header>
 
 <div style="display: inline_block" align= "center"><br>
@@ -85,12 +74,9 @@ My primary life objective is to explore the world and experience different cultu
           
           
 <header>
-    <h2 align="center" >💻 Technologies in which I`m accustomed</h2>
+    <h2 align="left" >💻 Technologies</h2>
   <header>
        
-
-
-
 <div style="display: inline_block" align= "center"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
@@ -104,6 +90,4 @@ My primary life objective is to explore the world and experience different cultu
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
           
 
-![Snake animation](https://github.com/Thiago2204/Thiago2204/blob/output/github-contribution-grid-snake.svg)
 
-  
