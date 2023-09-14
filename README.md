@@ -46,8 +46,8 @@
   </header>
   
 <p align="left">
-<img height="220" width="400" src="https://github-readme-stats.vercel.app/api?username=Thiago2204&show_icons=true&theme=vision-friendly-dark" alt="Thiago2204's stats"/>
-<img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2204&layout=compact&theme=vision-friendly-dark" alt="Thiago2204's most languages"/>
+<img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=Thiago2204&show_icons=true&theme=vision-friendly-dark" alt="Thiago2204's stats"/>
+<img height="200" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2204&layout=compact&theme=vision-friendly-dark" alt="Thiago2204's most languages"/>
 </p>
 
 
