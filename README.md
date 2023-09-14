@@ -9,15 +9,15 @@
 
 - 🔥 Junior Web Developer & UX|UI Designer 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, JavaScript, Python, C++ 
+- 💬 Ask me about JavaScript, HTML, CSS, JavaScript, Python, C++ 
 
-- ⚡ Fun fact: I`m a huge 
+- ⚡ Fun fact: I`m a huge geek
   
-<div style="display: inline_block" align= "center"><br>  
-<header>
+<div style="display: inline_block" align= "center"><br>    
   <h2 align="left" >📲  Click To Reach me</h2>
   </header>
   
+
 <div align="left">
   <a href="https://github.com/Thiago2204" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
@@ -41,24 +41,22 @@
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
   </a>
       
-
+<div style="display: inline_block" align= "center"><br> 
 <header>
     <h2 align="left" >📊 Analytics</h2>
   </header>
   
-<div style="display: inline_block" align= "center"><br> 
   <p align="left">
   <img height="200"src="https://github-readme-stats.vercel.app/api?username=Thiago2204&show_icons=true&theme=vision-friendly-dark" alt="Thiago2204's stats"/>
   <img height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2204&layout=compact&theme=vision-friendly-dark"     alt="Thiago2204's most languages"/>
 </p>
 
 
-
+<div style="display: inline_block" align= "center"><br>
 <header>
     <h2 align="left" >👨🏽‍💻 Languages</h2>
   </header>
-
-<div style="display: inline_block" align= "center"><br>
+  
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -72,12 +70,11 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
   </div>
           
-          
+<div style="display: inline_block" align= "center"><br>         
 <header>
     <h2 align="left" >💻 Technologies</h2>
   <header>
        
-<div style="display: inline_block" align= "center"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
