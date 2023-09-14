@@ -46,7 +46,7 @@
     <h2 align="left" >📊 Analytics</h2>
   </header>
   
-  <p align="left">
+<p align="left">
 <img height="210" width="500" src="https://github-readme-stats.vercel.app/api?username=Thiago2204&show_icons=true&theme=vision-friendly-dark" alt="Thiago2204's stats"/>
 <img height="210" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2204&layout=compact&theme=vision-friendly-dark" alt="Thiago2204's most languages"/>
 </p>
