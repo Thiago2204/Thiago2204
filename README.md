@@ -3,15 +3,15 @@
  
 <img align="right" height="490em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
   
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thiago Estacio</h1> 
+<h1 align="center">Hi, I'm Thiago Estacio</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiago2204&color=yellow" alt="Profile views" /> </p>
 
 
-- 🔥 Junior Web Developer & UX|UI Designer 
+- 🕹️ Junior Web Developer & UX|UI Designer 
 
 - 💬 Ask me about JavaScript, HTML, CSS, JavaScript, Python, C++ 
 
-- ⚡ Fun fact: I`m a huge geek
+- 📌 Fun fact: I`m a huge geek
   
 <div style="display: inline_block" align= "center"><br>    
   <h2 align="left" >📲  Click To Reach me</h2>
