@@ -2,7 +2,7 @@
 <img align="left" height="50" width="50" src="https://thumbs.gfycat.com/InnocentPleasedAmericangoldfinch-max-1mb.gif" />
  
   
-<h1 align="center">Hi, I'm Thiago Estacio</h1> 
+<h1 align="center">Hi, I'm Thiago Estacio 👋🏻</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiago2204&color=yellow" alt="Profile views" /> </p>
 
 
