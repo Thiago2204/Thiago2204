@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiago2204&color=yellow" alt="Profile views" /> </p>
 
 
-- 🕹️ Junior Web Developer & UX|UI Designer 
+- 🕹️ Junior Software Developer & UX|UI Designer 
 
 - 💬 Ask me about JavaScript, HTML, CSS, JavaScript, Python, C++ 
 
