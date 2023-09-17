@@ -8,7 +8,7 @@
 
 - 🕹️ Junior Software Developer & UX|UI Designer 
 
-- 💬 Ask me about JavaScript, HTML, CSS, JavaScript, Python, C++ and User experience and interface 
+- 💬 Ask me about SwiftUI, HTML, CSS, JavaScript, Python, C++ and User experience and interface 
 
 - 📌 Fun fact: I`m a huge geek
   
