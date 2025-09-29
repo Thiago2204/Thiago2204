@@ -11,7 +11,7 @@
 - [Udemy](https://www.udemy.com/pt/?srsltid=AfmBOor8rhqphzbKYmWEvvg1rNpBafhDDnmbKgIea4H90xLw-PtUR4jS) **React Projects** – Emitido em 2024
 - [ENAP](https://www.enap.gov.br) **Python** – Emitido em 2024
 - [ENAP](https://www.enap.gov.br) **B.I.** – Emitido em 2024
-- [Fundação Bradesco](https://www.ev.org.br) **HTML & CSS ** – Emitido em 2023
+- [Fundação Bradesco](https://www.ev.org.br) **HTML & CSS** – Emitido em 2023
 
 
 
