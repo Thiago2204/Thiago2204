@@ -1,6 +1,6 @@
 ## 📜 Certificados
 
-### Aqui estão alguns dos certificados que obtive ao longo da minha jornada de aprendizado:
+### Aqui estão alguns dos certificados presentes acima que obtive ao longo da minha jornada de aprendizado:
 
 - [Impacta](https://www.impacta.com.br) **N8N** – Emitido em 2025
 - [Udemy](https://www.udemy.com/pt/?srsltid=AfmBOor8rhqphzbKYmWEvvg1rNpBafhDDnmbKgIea4H90xLw-PtUR4jS) **Unit Testing com Pytest** – Emitido em 2024
