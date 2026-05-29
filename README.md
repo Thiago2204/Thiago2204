@@ -46,10 +46,16 @@
     <h2 align="left" >📊 Analytics</h2>
   </header>
   
-<p align="left">
-<img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=Thiago2204&show_icons=true&theme=vision-friendly-dark" alt="Thiago2204's stats"/>
-<img height="200" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2204&layout=compact&theme=vision-friendly-dark" alt="Thiago2204's most languages"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago2204&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thiago2204&layout=compact&langs_count=8&theme=dracula"/>
+
+<img height="309em" src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago2204&theme=dracula"/>
+
+
+</div>
 
 <!-- ================================================================================================================================ -->
 
