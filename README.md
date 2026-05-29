@@ -11,8 +11,10 @@
 - 📌 Fun fact: I`m a huge geek
   
 <div style="display: inline_block" align= "center"><br>    
+  
   <h2 align="left" >📲  Click To Reach me</h2>
-  </header>
+
+</div>
 
 <!-- ================================================================================================================================ -->
   
@@ -42,10 +44,9 @@
 <!-- ================================================================================================================================ -->
 
 <div style="display: inline_block" align= "center"><br> 
-<header>
-    <h2 align="left" >📊 Analytics</h2>
-  </header>
-  
+
+<h2 align="left">📊 Stats</h2>
+
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago2204&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -54,16 +55,13 @@
 
 <img height="309em" src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago2204&theme=dracula"/>
 
-
 </div>
 
 <!-- ================================================================================================================================ -->
 
 <div style="display: inline_block" align= "center"><br>
-<header>
-    <h2 align="left" >👨🏽‍💻 Technologies</h2>
-  </header>
-  
+
+<h2 align="left">👨🏽‍💻 Technologies</h2>
 
 <img align="center" alt="Docker" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="center" alt="Git" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -87,9 +85,9 @@
 <!-- ================================================================================================================================ -->
 
 <div style="display: inline_block" align= "center"><br>
-<header>
-<h2 align="left">💻 Languages</h2>
-  </header>
+
+<h2 align="left">💻 Programming Languages</h2>
+
   
 <img align="center" alt="NodeJS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="center" alt="HTML5" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -106,16 +104,41 @@
 <img align="center" alt="Go" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="center" alt="Kotlin" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 <img align="center" alt="Swift" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-<img align="center" alt="Dart" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img align="center" alt="Ruby" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 
 </div>
 
+<!-- ================================================================================================================================ -->
+
+<br>
+
+<div align="center">
+
+<h2 align="left">🤖 AI Tools & Coding Assistants</h2>
+
+<img align="center" alt="GitHub Copilot" height="55" width="55" src="https://cdn.simpleicons.org/githubcopilot" />
+<img align="center" alt="Claude" height="55" width="55" src="https://cdn.simpleicons.org/claude" />
+<img align="center" alt="Google Gemini" height="55" width="55" src="https://cdn.simpleicons.org/googlegemini" />
+<img align="center" alt="OpenAI" height="55" width="55" src="https://github.com/user-attachments/assets/8947f49c-fca3-4bc0-b4a7-1577a1bc6def" />
+<img align="center" alt="Hugging Face" height="55" width="55" src="https://cdn.simpleicons.org/huggingface" />
+<img align="center" alt="LangChain" height="55" width="55" src="https://cdn.simpleicons.org/langchain" />
+<img align="center" alt="Weights & Biases" height="55" width="55" src="https://cdn.simpleicons.org/weightsandbiases" />
+<img align="center" alt="Kaggle" height="55" width="55" src="https://cdn.simpleicons.org/kaggle" />
+<img align="center" alt="Databricks" height="55" width="55" src="https://cdn.simpleicons.org/databricks" />
+<img align="center" alt="Apache Spark" height="55" width="55" src="https://cdn.simpleicons.org/apachespark" />
+<img align="center" alt="Google Colab" height="55" width="55" src="https://cdn.simpleicons.org/googlecolab" />
+<img align="center" alt="Power BI" height="55" width="55" src="https://img.icons8.com/color/96/power-bi.png" />
+<img align="center" alt="Tableau" height="55" width="55" src="https://img.icons8.com/color/96/tableau-software.png" />
+<img align="center" alt="Pinecone" height="55" width="55" src="https://img.icons8.com/fluency/96/artificial-intelligence.png" />
+
+</div>
+
+<!-- ================================================================================================================================ -->
+
 <div style="display: inline_block" align= "center"><br> 
-<header>
-    <h2 align="left" > 🐍 Commits</h2>
- </header>
+
+ <h2 align="left">🐍 Commits</h2>
 
    ![snake gif](https://github.com/Thiago2204/Thiago2204/blob/output/github-snake-dark.svg)
 
+</div>
 
