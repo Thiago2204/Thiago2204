@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiago2204&color=yellow" alt="Profile views" /> </p>
 
 
-- 🕹️ Junior Software Developer & UX|UI Designer 
+- 🕹️ I am Fullstack Developer and Data Scientist 
 
-- 💬 Ask me about SwiftUI, HTML, CSS, JavaScript, Python, C++ and User experience and interface 
+- 📜 Bachlors in Computer Science at UPM and a MBA in Data Science & Analytics at USP
 
 - 📌 Fun fact: I`m a huge geek
   
