@@ -88,4 +88,11 @@
   <img align="left" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 
+<div style="display: inline_block" align= "center"><br> 
+<header>
+    <h2 align="left" > 🐍 Commits</h2>
+ </header>
+
+   ![snake gif](https://github.com/Thiago2204/Thiago2204/blob/output/github-snake-dark.svg)
+
 
