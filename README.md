@@ -1,15 +1,20 @@
 
+<div align="left">
   
-<h1 align="center">Hi, I'm Thiago Estacio 🖖🏻</h1> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiago2204&color=yellow" alt="Profile views" /> </p>
+  <h1 align="center">Hi, I'm Thiago Estacio 🖖🏻</h1> 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiago2204&color=yellow" alt="Profile views" /> </p>
 
 
-- 🕹️ I am Fullstack Developer and Data Scientist 
+  - 🕹️ I am Fullstack Developer and Data Scientist 
 
-- 📜 Bachlors in Computer Science at UPM and a MBA in Data Science & Analytics at USP
+  - 📜 Bachlors in Computer Science at UPM and a MBA in Data Science & Analytics at USP
 
-- 📌 Fun fact: I`m a huge geek
-  
+  - 📌 Fun fact: I`m a huge geek
+
+  - My [Certificates](https://github.com/Thiago2204/Thiago2204/tree/main/Certificados) and [Degrees](https://github.com/Thiago2204/Thiago2204/tree/main/Diplomas)
+
+</div>
+
 <div style="display: inline_block" align= "center"><br>    
   
   <h2 align="left" >📲  Click To Reach me</h2>
@@ -30,9 +35,6 @@
   </a>
    <a href="https://wa.link/ievo1w" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.facebook.com/thiagohenrique.q.estacio/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/thiagoquadrado/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
