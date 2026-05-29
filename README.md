@@ -49,9 +49,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago2204&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago2204&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thiago2204&layout=compact&langs_count=8&theme=dracula"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thiago2204&layout=compact&langs_count=8&theme=dracula"/>
 
 <img height="309em" src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago2204&theme=dracula"/>
 
