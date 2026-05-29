@@ -9,8 +9,6 @@
 
   - 📜 Bachlors in Computer Science at UPM and a MBA in Data Science & Analytics at USP
 
-  - 📌 Fun fact: I`m a huge geek
-
   - My [Certificates](https://github.com/Thiago2204/Thiago2204/tree/main/Certificados) and [Degrees](https://github.com/Thiago2204/Thiago2204/tree/main/Diplomas)
 
 </div>
