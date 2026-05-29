@@ -13,8 +13,9 @@
 <div style="display: inline_block" align= "center"><br>    
   <h2 align="left" >📲  Click To Reach me</h2>
   </header>
-  
 
+<!-- ================================================================================================================================ -->
+  
 <div align="left">
   <a href="https://github.com/Thiago2204" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
@@ -37,7 +38,9 @@
   <a href="https://www.behance.net/thiagoestacio2" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
   </a>
-      
+
+<!-- ================================================================================================================================ -->
+
 <div style="display: inline_block" align= "center"><br> 
 <header>
     <h2 align="left" >📊 Analytics</h2>
@@ -48,6 +51,7 @@
 <img height="200" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2204&layout=compact&theme=vision-friendly-dark" alt="Thiago2204's most languages"/>
 </p>
 
+<!-- ================================================================================================================================ -->
 
 <div style="display: inline_block" align= "center"><br>
 <header>
@@ -66,7 +70,9 @@
   <img align="left" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="left" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
   </div>
-          
+
+<!-- ================================================================================================================================ -->
+
 <div style="display: inline_block" align= "center"><br>         
 <header>
     <h2 align="left" >💻 Technologies</h2>
