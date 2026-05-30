@@ -7,7 +7,7 @@
 
   - 🕹️ I am Fullstack Developer and Data Scientist 
 
-  - 📜 Bachlors in Computer Science at UPM and a MBA in Data Science & Analytics at USP
+  - 📜 Bachlors in Computer Science at UPM and MBA in Data Science & Analytics at USP
 
   - My [Certificates](https://github.com/Thiago2204/Thiago2204/tree/main/Certificados) and [Degrees](https://github.com/Thiago2204/Thiago2204/tree/main/Diplomas)
 
