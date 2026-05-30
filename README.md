@@ -53,7 +53,6 @@
 
 <img height="171em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thiago2204&layout=compact&langs_count=8&theme=dracula"/>
 
-<img height="309em" src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago2204&theme=dracula"/>
 
 </div>
 
